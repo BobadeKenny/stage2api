@@ -18,8 +18,8 @@ The Person API provides endpoints for managing person records. You can perform C
 Before you begin, ensure you have met the following requirements:
 
 - Python [3.10.5]
-- Django [4.2.5]
-- [Database System, e.g., PostgreSQL, MySQL]
+- Django [3.2.20]
+- PostgreSQL
 
 ## Installation
 
