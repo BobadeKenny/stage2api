@@ -9,13 +9,9 @@ The Person API provides endpoints for managing person records. You can perform C
 
 1. [Prerequisites](#prerequisites)
 2. [Installation](#installation)
-3. [Configuration](#configuration)
-4. [Usage](#usage)
-5. [API Endpoints](#api-endpoints)
-6. [Authentication](#authentication)
-7. [Error Handling](#error-handling)
-8. [Contributing](#contributing)
-9. [License](#license)
+3. [API Endpoints](#api-endpoints)
+4. [Testing](#testing)
+
 
 ## Prerequisites
 
